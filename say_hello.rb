@@ -1,3 +1,2 @@
-name ="Dan"
- language = "Ember.js"
-end
+
+say_hello("ruby")
